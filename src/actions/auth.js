@@ -27,7 +27,7 @@ export const startLoginEmailPassword = (email, password) => {
       })
       .catch((e) => {
         dispatch(finishLoading());
-        console.log(e.code);
+
         if (e.code === 'auth/user-not-found') {
           Swal.fire('Login Error', 'User not found', 'error');
         } else if (e.code === 'auth/wrong-password') {

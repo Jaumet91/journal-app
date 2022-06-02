@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/journal-app/static/css/main.b39a5664.css",
-    "main.js": "/journal-app/static/js/main.f32c34f3.js",
+    "main.js": "/journal-app/static/js/main.981a9435.js",
     "index.html": "/journal-app/index.html",
     "main.b39a5664.css.map": "/journal-app/static/css/main.b39a5664.css.map",
-    "main.f32c34f3.js.map": "/journal-app/static/js/main.f32c34f3.js.map"
+    "main.981a9435.js.map": "/journal-app/static/js/main.981a9435.js.map"
   },
   "entrypoints": [
     "static/css/main.b39a5664.css",
-    "static/js/main.f32c34f3.js"
+    "static/js/main.981a9435.js"
   ]
 }
